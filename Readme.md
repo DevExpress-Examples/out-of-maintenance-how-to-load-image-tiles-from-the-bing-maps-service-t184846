@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MapControl_BingMapsDataProvider/Form1.cs) (VB: [Form1.vb](./VB/MapControl_BingMapsDataProvider/Form1.vb))
+* [Program.cs](./CS/MapControl_BingMapsDataProvider/Program.cs) (VB: [Program.vb](./VB/MapControl_BingMapsDataProvider/Program.vb))
+<!-- default file list end -->
 # How to: load image tiles from the Bing Maps service
 
 
