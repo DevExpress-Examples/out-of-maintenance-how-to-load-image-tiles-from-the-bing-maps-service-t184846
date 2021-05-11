@@ -8,7 +8,8 @@ namespace MapControl_BingMapsDataProvider {
             #region #BingMapsDataProvider
             mapControl1.Layers.Add(new ImageLayer() {
                 DataProvider = new BingMapDataProvider() {
-                    BingKey = "YOUR BING KEY"
+                    BingKey = "YOUR BING KEY",
+                    Kind = BingMapKind.Road
                 }
             });
             #endregion #BingMapsDataProvider
